@@ -1,4 +1,4 @@
-import Terminos from "@/components/terminos/terminos";
+import Terminos from "@/components/terminos/Terminos";
 import AvisoPrivacidad from "@/components/terminos/AvisoPrivacidad";
 import PoliticaCookies from "@/components/terminos/PoliticaCookies";
 import SobreNosotros from "@/components/terminos/SobreNosotros";
