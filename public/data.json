@@ -1,0 +1,15 @@
+[
+    {
+      "titulo": "Mi primer viaje a Japón",
+      "url": "/mi-primer-viaje-a-japon",
+      "contenido": "Este verano visité Japón por primera vez...",
+      "tags": ["japon", "viaje", "cultura"],
+      "img": "/image/Logo.webp"
+    },
+    {
+      "titulo": "Los mejores animes de la temporada",
+      "url": "/mejores-animes-temporada",
+      "contenido": "En este artículo, repasamos los animes más destacados...",
+      "tags": ["anime", "recomendaciones", "temporada"]
+    }
+  ]

@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "slug": "reseñas-de-demon-slayer",
+        "title": "Reseña de Demon Slayer",
+        "category": "reseñas",
+        "content": "Una reseña sobre la última temporada de Demon Slayer."
+    },
+    {
+        "id": 2,
+        "title": "Estreno de Jujutsu Kaisen",
+        "category": "estrenos",
+        "content": "Todo lo que necesitas saber sobre el estreno de Jujutsu Kaisen."
+    },
+    {
+        "id": 3,
+        "title": "Novedades de My Hero Academia",
+        "category": "noticias",
+        "content": "Las últimas novedades sobre My Hero Academia."
+    },
+    {
+        "id": 4,
+        "title": "Top 10 animes de 2023",
+        "category": "reseñas",
+        "content": "Una lista de los mejores animes de 2023."
+    },
+    {
+        "id": 5,
+        "title": "Análisis de Attack on Titan",
+        "category": "reseñas",
+        "content": "Un análisis profundo de Attack on Titan."
+    },
+    {
+        "id": 6,
+        "title": "Nuevos animes para ver",
+        "category": "estrenos",
+        "content": "Una lista de nuevos animes que no te puedes perder."
+    },
+    {
+        "id": 7,
+        "title": "Eventos de anime en 2023",
+        "category": "noticias",
+        "content": "Los eventos de anime más importantes de 2023."
+    },
+    {
+        "id": 8,
+        "title": "Recomendaciones de animes",
+        "category": "reseñas",
+        "content": "Recomendaciones de animes para ver este año."
+    },
+    {
+        "id": 9,
+        "title": "Lo mejor de la temporada de primavera",
+        "category": "estrenos",
+        "content": "Lo mejor de la temporada de primavera de animes."
+    },
+    {
+        "id": 10,
+        "title": "Entrevista con un creador de anime",
+        "category": "noticias",
+        "content": "Una entrevista exclusiva con un creador de anime."
+    },
+    {
+        "id": 11,
+        "title": "Análisis de One Piece",
+        "category": "reseñas",
+        "content": "Un análisis de la serie One Piece."
+    }
+]
